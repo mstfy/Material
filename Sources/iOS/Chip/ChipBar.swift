@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import MotionSDK
 
 @objc(ChipItemStyle)
 public enum ChipItemStyle: Int {

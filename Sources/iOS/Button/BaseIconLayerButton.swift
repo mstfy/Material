@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import MotionSDK
 
 /// Implements common logic for CheckButton and RadioButton
 open class BaseIconLayerButton: Button {

@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import MotionSDK
 
 open class PulseView: View, Pulseable, PulseableLayer {
   /// A Pulse reference.

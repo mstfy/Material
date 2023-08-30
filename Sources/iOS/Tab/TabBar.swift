@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import MotionSDK
 
 open class TabItem: FlatButton {
   /// A dictionary of TabItemStates to UIColors for states.

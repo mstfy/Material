@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import MotionSDK
 
 open class Button: UIButton, Pulseable, PulseableLayer, Themeable {
   /**

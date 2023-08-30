@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import MotionSDK
 
 open class TableViewCell: UITableViewCell, Pulseable, PulseableLayer {
   /**

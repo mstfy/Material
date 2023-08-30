@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import MotionSDK
 
 /// A protocol that's conformed by UIView and UILayoutGuide.
 public protocol Constraintable: class { }

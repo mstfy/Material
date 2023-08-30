@@ -24,7 +24,7 @@
  */
 
 import UIKit
-import Motion
+import MotionSDK
 
 fileprivate var TabItemKey: UInt8 = 0
 
